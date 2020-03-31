@@ -17,7 +17,7 @@ Objective
 
 Data Processing
 -
-- Create dummy variables for categorical features (gender, physical symptoms like headaches, nausea + vomiting, fatigues, aches, jaundice, and pain)
+- Create dummy variables for categorical features (gender, physical symptoms like headaches, nausea + vomiting, fatigue, aches, jaundice, and pain)
 
 - Create Transplant Class variable using Baseline Histological Staging to determine whether or not a patient is an eligible candidate.
 
@@ -29,7 +29,7 @@ EDA
 
 - Check for significant correlations
 
-- Run Principle Component Analysis (insert PCA bar plot)
+- Run Principal Component Analysis (insert PCA bar plot)
 
 - Examine Explained Variance (Add explained variance plot)
 
