@@ -19,7 +19,7 @@ Data Processing
 -
 - Create dummy variables for categorical features (gender, physical symptoms like headaches, nausea + vomiting, fatigues, aches, jaundice, and pain)
 
--Create Transplant Class variable using Baseline Histological Staging to determine whether or not a patient is an eligible candidate.
+- Create Transplant Class variable using Baseline Histological Staging to determine whether or not a patient is an eligible candidate.
 
 
 EDA
@@ -98,5 +98,5 @@ Summary
 - Best model at present: Random Forest
 - Future work:
   - Eliminate extraneous features
-  - SMOTE to improve class balance between 
+  - SMOTE to improve class balance of target variable
   - Try other boosting algorithms (ADAboost, Gradient Boosting)
