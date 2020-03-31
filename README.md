@@ -25,13 +25,17 @@ Data Processing
 EDA
 -
 
-- Examine class balance (insert Class Balance bar plot)
+- Examine class balance
+<img src = "images/class_balance.png"> 
 
 - Check for significant correlations
+<img src = "images/correlation_matrix.png"> 
 
-- Run Principal Component Analysis (insert PCA bar plot)
+- Run Principal Component Analysis
+<img src = "images/pca_barplot.png"> 
 
 - Examine Explained Variance (Add explained variance plot)
+<img src = "images/elbow_plot.png"> 
 
 Classification Model
 -
@@ -45,6 +49,9 @@ Model 1: K-Nearest Neighbors
 - With optimized Parameters (k = 1), F1 Score improved to 32%
 
 Model 2: Decision Tree
+
+<img src = "images/decision_tree.png"> 
+
 - Cross-Validated Accuracy Score: 72%
   - Depth: 2
   - Feature Importance:
@@ -91,7 +98,8 @@ Refine Random Forest Model
     4) AST 1
     5) RNA EOT
     6) ALT 4
-- Insert Classification Report
+
+<img src = "images/classification_report.png"> 
 
 Summary
 -
