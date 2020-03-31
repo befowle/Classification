@@ -1,7 +1,8 @@
 Classifying Liver Transplant Candidates
 -
-This project uses the 'Hepatitis C Virus (HCV) for Egyptian Patients Data Set' from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients#)
-
+To view code for this project, please see [Classification.py] (https://github.com/befowle/Classifying_Liver_Transplant_Candidates/blob/master/Classification.py)
+  - This project uses the 'Hepatitis C Virus (HCV) for Egyptian Patients Data Set' from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Hepatitis+C+Virus+%28HCV%29+for+Egyptian+patients#)
+  
 Objective
 -
 - To classify patients as candidates for liver transplants based on the progression of Cirrhosis
